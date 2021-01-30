@@ -1,0 +1,9 @@
+C:\Users\yagoc\source\repos\NewServer\obj\Debug\NewServer.csprojAssemblyReference.cache
+C:\Users\yagoc\source\repos\NewServer\obj\Debug\NewServer.csproj.CoreCompileInputs.cache
+C:\Users\yagoc\source\repos\NewServer\bin\Debug\NewServer.exe.config
+C:\Users\yagoc\source\repos\NewServer\bin\Debug\NewServer.exe
+C:\Users\yagoc\source\repos\NewServer\bin\Debug\NewServer.pdb
+C:\Users\yagoc\source\repos\NewServer\bin\Debug\KaymakNetwork.dll
+C:\Users\yagoc\source\repos\NewServer\obj\Debug\NewServer.csproj.CopyComplete
+C:\Users\yagoc\source\repos\NewServer\obj\Debug\NewServer.exe
+C:\Users\yagoc\source\repos\NewServer\obj\Debug\NewServer.pdb
